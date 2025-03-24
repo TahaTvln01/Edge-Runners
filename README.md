@@ -8,7 +8,12 @@ Edge Runners 🚀
 ✔ Seviye Tasarımı – Farklı zorluk seviyelerine sahip bölümler
 
 📷 Ekran Görüntüleri
-(Buraya birkaç oyun içi görsel ekleyebilirsin.)
+![Deneme](images/1080p.png)
+![Deneme](images/1080p_2.png)
+![Deneme](images/1080p_3.png)
+![Deneme](images/1080p_4.png)
+![Deneme](images/1080p_6.png)
+![Deneme](images/16_9_oran_1.png)
 
 💻 Teknolojiler & Araçlar
 Unity (Oyun motoru)

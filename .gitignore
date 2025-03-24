@@ -1,0 +1,14 @@
+# Unity gereksiz dosyalar
+Library/
+Temp/
+Logs/
+obj/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.userprefs
+*.unitypackage

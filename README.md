@@ -20,14 +20,14 @@ Unity (Oyun motoru)
 C# (Kodlama dili)
 
 📦 Nasıl Çalıştırılır?
-Unity 202x.x.x sürümünü yükleyin (bu kısmı kullandığın Unity sürümüne göre güncelle).
+Unity 2022.3.23f1 sürümünü yükleyin.
 
 Bu repo’yu klonlayın:
 
 sh
 Kopyala
 Düzenle
-git clone https://github.com/KullaniciAdin/EdgeRunners.git
+git clone https://github.com/TahaTvln01/Edge-Runners.git
 Unity ile açın ve çalıştırın.
 
 📌 Durum & Planlar

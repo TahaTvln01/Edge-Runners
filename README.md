@@ -7,6 +7,9 @@ Edge Runners 🚀
 ✔ Farklı Tuzak ve bölüm mekanikleri – Her biri kendine özgü mekaniklere sahip tuzaklar
 ✔ Seviye Tasarımı – Farklı zorluk seviyelerine sahip bölümler
 
+🎮YouTube Oynanış videosu
+[Edge Runners Oynanış]([https://www.youtube.com/link](https://youtu.be/SA7CfT1sH5s?si=7zRfMeO5icTvV8LQ))
+
 📷 Ekran Görüntüleri
 ![Deneme](images/1080p.png)
 ![Deneme](images/1080p_2.png)
